@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Flickr_app</string>
+
+    <string name="search_error">Error in searching</string>
 </resources>
